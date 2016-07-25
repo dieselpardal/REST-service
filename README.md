@@ -1,7 +1,7 @@
 
 # Estudo de Serviço Rest
 
-O primeiro passo fazer o processo de criação de um "Oi, AMigo" serviço REST.
+O primeiro passo fazer o processo de criação de um "Oi, Amigo" serviço REST.
 
  * Visualização de WEB
  ```bash
