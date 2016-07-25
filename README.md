@@ -3,12 +3,13 @@
 
 O primeiro passo fazer o processo de criação de um "Oi, Amigo" serviço REST.
 
- * Visualização de WEB
+ * Rodar:
  ```bash
- http://localhost:8080/oi
- ``
+ Terminal: ./gradlew bootRun
+ Web: http://localhost:8080/oi
+ ```
 
 
-* libk:
+ * Link:
 
 [REST-Service](https://spring.io/guides/gs/rest-service/)
